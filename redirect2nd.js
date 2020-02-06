@@ -1,5 +1,5 @@
 function onClick() {
-  location.replace("2nd%20Page.html")
+  location.replace("2nd-Page.html")
 }
 
 function apologizeBtn() {
@@ -19,11 +19,11 @@ function reTry() {
 }
 
 function violetBtn() {
-  location.replace("4th%20Page.html")
+  location.replace("4th-Page.html")
 }
 
 function breathBtn() {
-  location.replace("5th%20Page.html")
+  location.replace("5th-Page.html")
 }
 
 function nyanBtn() {
